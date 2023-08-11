@@ -13,37 +13,37 @@
 
 <p align="center">
 
-The Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (IMMERSE) is an IES funded training grant (R305B220021) to support education scholars in integrating mixture modeling into their research.
+Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF funded training grant to support STEM Education scholars in integrating mixture modeling into their research.
 
 </p>
 
 ------------------------------------------------------------------------
 
-### Day 1 (May 19, 2023): Introductions, training goals, introduction to data science
+### Day 1 (August 31, 2023): Introductions, training goals, introduction to latent class analysis
 
 Learning Outcomes:
 
-1. Fellows will be able to create a first draft of their equity-focused research goals that can be addressed with mixture modeling in the upcoming year.
+1. Fellows will be able to create a first draft of their research goals that can be addressed with mixture modeling in the upcoming year.
 
-2. Fellows will be able to identify how the IMMERSE training goals and opportunities can help them to apply mixture modeling training their research goals
+2. Fellows will be able to identify how the MM4DBER training goals and opportunities can help them to apply mixture modeling training their research goals
 
 
 Synchronous Activity:
 
-* Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 1.pdf)
-* [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing)
+* Slide deck [here]()
+* [Workspace]()
 
 Asynchronous Activity:
 
-* Activity 1: Thoughts on articles from expert consultants (starting on slide 17 of the [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing) slides)
+* Activity 1: Thoughts on articles from expert consultants (starting on slide 17 of the [Workspace]() slides)
 
-* Activity 2: Create a draft of your research goals (starting on slide 20 of the [Workspace](https://docs.google.com/presentation/d/1kRnbRT04Tgq8cvgdlDP-bPMG2InfkZZtLpsIJYAgPzI/edit?usp=sharing) slides]
+* Activity 2: Create a draft of your research goals (starting on slide 20 of the [Workspace]() slides]
 
-[Pre-Training Day 1 Video](https://drive.google.com/file/d/13Ek7COzK6K9KbsCWrBxNrBcoViS860g_/view?usp=sharing)
+[Pre-Training Day 1 Video]()
 
 ------------------------------------------------------------------------
 
-### Day 2 (May 24, 2023): Introduction to Mplus and MplusAutomation in R
+### Day 2 (September 1, 2023): ADD DESCRIPTION 
 
 Prepartion:
 
@@ -61,21 +61,21 @@ Learning Outcomes:
 
 Synchronous Activity:
 
--   [Introduction to MplusAutomation](https://github.com/immerse-ucsb/intro-to-mplusautomation)
--   Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 2.pdf)
+-   [Introduction to MplusAutomation]()
+-   Slide deck [here](https://.pdf)
 
 Asynchronous Activity:
 
 -   Complete Part 3 of "Introduction to MplusAutomation": Descriptive Statistics
--   [How to make your R markdown pretty!](https://www.youtube.com/watch?v=v048ru5v0BE&ab_channel=JosiahParry)
+-   [How to make your R markdown pretty!]()
 
-[Anonymous Feedback Survey](https://forms.gle/saJsVUmARVeB2j638)
+[Anonymous Feedback Survey]()
 
-[Pre-Training Day 2 Video](https://drive.google.com/file/d/1DBSvdP0isqTriTLCl2WD0TBWFfB0pO92/view?usp=sharing)
+[Pre-Training Day 2 Video]()
 
 ------------------------------------------------------------------------
 
-### Day 3 (May 26, 2023): Data wrangling, exploration and visualization
+### Day 3 (September 2, 2023): ADD DESCRIPTION 
 
 Learning Outcomes:
 
@@ -103,54 +103,51 @@ Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3
 
 ------------------------------------------------------------------------
 
-### Day 4 (May 31, 2023): Collaborative, reproducible workflows with R, RStudio, git and GitHub
+### Day 4 (September 7, 2023): ADD DESCRIPTION 
 
 Learning Outcomes:
 
-1.  Using Git and GitHub, Fellows will be able to fork an existing repository, and clone it to an R project using RStudio.
-2.  Using R in RStudio, Fellows will be able to use simple loops and functions to automate and iterate coding tasks.
-3.  Using R in RStudio, Fellows will be able to use the `stringr` package and simple regular expressions to wrangle text data.
+1.  ADD DESCRIPTION 
+2.  ADD DESCRIPTION 
+3.  ADD DESCRIPTION 
 
 Preparation:
 
--   [Sign up for a GitHub account, and set up Git on your computer](https://docs.google.com/document/d/1Yc47HH0OiQUs0DR9rz4xoUYCtyCy6ddf9vye8BIN2Oc/edit?usp=share_link)
--   [Link RStudio and Github, and set up a personal access token PAT](https://docs.google.com/document/u/0/d/1pDv-hoeJxxYFbvp6vX2ZvTgxDIAYGfj8UTSYIkLS0Zs/edit)
--   Read ["Better Science in Less Time" (Lowndes et al. 2017)](https://drive.google.com/file/d/1b-6r919k35kDPnc4iyNzdcnVtNz0yEwE/view?usp=share_link). Table 1 provides a good overview of tools available to improve open data science.
--   Read ["Good enough practices in scientific computing" (Wilson et al. 2017)](https://drive.google.com/file/d/1Xv5lYKDC6tqd73P_3Bmppq5-5PtLRHii/view?usp=sharing)
-
-Synchronous Activity ([Github repo here](https://github.com/oharac/immerse_day4_iter_and_fxns)):
-
--   [Live coding: loops and functions; text wrangling](https://github.com/oharac/immerse_day4_iter_and_fxns). We will also practice with GitHub!
--   Continue discussion on benefits and challenges of reproducible, collaborative, open data science.
+- ADD DESCRIPTION 
+- ADD DESCRIPTION 
 
 Asynchronous Activity:
 
--   [Additional text wrangling: self-guided tour](https://github.com/oharac/text_workshop): Fork then clone this repository to your computer. Code along with the .HTML files in numeric order, or run line by line through the .Rmd scripts, as you prefer. Note, some of `1_stringr_tutorial` will be duplicated in the Day 4 live coding session, but this script contains additional details and more complex wrangling cases.
+-   [ADD DESCRIPTION](https://): ADD DESCRIPTION 
 
 
-[Pre-Training Day 4 Video](https://drive.google.com/file/d/1V1MhB7bsUjAUk2lTzqWz70VZcq9qIuCS/view?usp=sharing) 
+[Pre-Training Day 4 Video](https://) 
 
 
-[Anonymous Feedback Survey](https://forms.gle/kxgeaK8A9CQvwgZP7)
+[Anonymous Feedback Survey](https://)
 
 ------------------------------------------------------------------------
 
-### Day 5 (June 2, 2023): Data science principles: data organization, storage, sharing, and code
+### Day 5 (September 11, 2023): ADD DESCRIPTION 
 
 Learning Outcomes:
 
-1.  Fellows will be able to create GitHub repositories on GitHub and in R/RStudio.
-2.  Fellows will be able to work with others to collaborate on a coding script; they will learn strategies to safely collaborate (to avoid merge conflicts), and will learn how to resolve a merge conflict if (when!) one does occur.
-3.  Fellows will explore additional collaboration and communication tools using R/RStudio and Git/Github.
+1.  Using Mplus software, fellows will learn the basic skeleton of an Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
+
+2.  Using the `MplusAutomation` package, fellows will will be able to run descriptive statistics in R.
+
+3.  This workshop will cover the creation of R-projects and R markdowns and discuss the benefits of organization of the R workflow.
+
+4.  Fellows will have the opportunity to learn how to enhance and customize their R markdowns by applying themes to their documents
 
 Preparation:
 
--   Read ["Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution" (Braga et al 2023)](https://drive.google.com/file/d/1tpgS-bI16bP0dddkdbilCmFL_4Oxezgc/view?usp=share_link). Before reading, look at Fig. 2 - it nicely organizes many of the ways GitHub can facilitate collaboration, ordered by technical difficulty. As you read, choose three or four of those skills/activities that interest you most, and prepare to discuss those during the synchronous session.
+- ADD DESCRIPTION 
 
 Synchronous Activity:
 
--   Recaps of ideas from pre-training days 1-4: Slide deck [here](https://immerse-ucsb.github.io/IMMERSE Pre-training Day 5.pdf)
--   Reflections and discussions on challenges of coding, reproducibility, and how to effectively implement data science principles
+-   ADD DESCRIPTION: Slide deck [here](https://.pdf)
+-   ADD DESCRIPTION
 
 Asynchronous Activity:
 
@@ -174,13 +171,13 @@ Asynchronous Activity:
 
 Helpful Links:
 
--   Please [visit our website](https://immerse.education.ucsb.edu/) to learn more.
+-   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
 
--   Visit our [GitHub](https://github.com/immerse-ucsb) account to access all the IMMERSE materials.
+-   Visit our [GitHub](https://github.com/MM4DBER/mm4dber.github.io) account to access all the IMMERSE materials.
 
--   Follow us on [Twitter](https://twitter.com/IMMERSE_UCSB)!
+-   Follow us on [Twitter](https://twitter.com/mm4dbers)!
 
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://immerse-ucsb.github.io/pre-training>
+How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://mm4dber.github.io/pre-training>
 
 ------------------------------------------------------------------------
 

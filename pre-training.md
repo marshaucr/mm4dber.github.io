@@ -1,11 +1,10 @@
-% IMMERSE Pre-Training Materials
-
+## IMMERSE Pre-Training Materials
 
 ------------------------------------------------------------------------
 
 <p align="center">
 
-<img src="images/immerse_hex_small.png" width="300"/> <img src="images/IESNewLogo.jpg" width="300"/>
+<img src="images/mm4dber_clear.png" width="300"/> <img src="images/NSF-Logo.png" width="300"/>
 
 </p>
 

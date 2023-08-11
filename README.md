@@ -1,12 +1,12 @@
 # mm4dber.github.io
 
-## A GH pages repository to host MM4DBER materials as websites for sharing (PDF/HTML formats).
+## MM4DEBER PROJECT LANDING PAGE
 
 > i.e., `Presentation Slides`, `R`, `Rmarkdown`, `MplusAutomation`
 
 - - -
 
-##### Pre-training materials:
+##### Pre-training resources page: https://mm4dber.github.io/pre-training
 
 - - -
 

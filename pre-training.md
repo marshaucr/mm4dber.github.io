@@ -18,7 +18,7 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF 
 
 ------------------------------------------------------------------------
 
-### Day 1 (August 31, 2023): Introductions, training goals, introduction to latent class analysis
+### Day 1 (August 31, 2023): Introductions, training goals, introduction to mixture modeling
 
 Learning Outcomes:
 
@@ -42,9 +42,9 @@ Asynchronous Activity:
 
 ------------------------------------------------------------------------
 
-### Day 2 (September 1, 2023): ADD DESCRIPTION 
+### Day 2 (September 1, 2023): Introduction to Mixtures
 
-Prepartion:
+Preparation:
 
 - Make sure you have Mplus, R, and RStudio downloaded and ready to go!
 
@@ -74,13 +74,13 @@ Asynchronous Activity:
 
 ------------------------------------------------------------------------
 
-### Day 3 (September 2, 2023): ADD DESCRIPTION 
+### Day 3 (September 2, 2023): Introduction to Latent Class Analysis
 
 Learning Outcomes:
 
-1.  Fellows will be able to describe principles and challenges of reproducible data science.
-2.  Fellows will be able to explain tidy data principles and recognize when those principles might not apply, depending on the needs of an analysis method.
-3.  Using R in RStudio, Fellows will be able to wrangle data with categorical variables, encode continuous variables to categorical, and transform data frames from wide to long format and back.
+1. 
+2.  
+3.  
 
 Preparation:
 
@@ -102,7 +102,7 @@ Asynchronous Activity ([GitHub repo here](https://github.com/oharac/immerse_day3
 
 ------------------------------------------------------------------------
 
-### Day 4 (September 7, 2023): ADD DESCRIPTION 
+### Day 4 (September 7, 2023): Review of Logistic Regression
 
 Learning Outcomes:
 
@@ -127,7 +127,7 @@ Asynchronous Activity:
 
 ------------------------------------------------------------------------
 
-### Day 5 (September 11, 2023): ADD DESCRIPTION 
+### Day 5 (September 11, 2023): R, RStudio and MplusAutomation
 
 Learning Outcomes:
 

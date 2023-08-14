@@ -24,7 +24,7 @@ Learning Outcomes:
 
 1. Fellows will be able to create a first draft of their research goals that can be addressed with mixture modeling in the upcoming year.
 
-2. Fellows will be able to identify how the MM4DBER training goals and opportunities can help them to apply mixture modeling training their research goals
+2. Fellows will be able to identify how the MM4DBER training goals and opportunities can help them to apply mixture modeling training to their research goals
 
 
 Synchronous Activity:
@@ -34,11 +34,13 @@ Synchronous Activity:
 
 Asynchronous Activity:
 
-* Activity 1: Thoughts on articles from expert consultants (starting on slide 17 of the [Workspace]() slides)
+* Activity 1: Create a draft of your research goals (starting on slide 20 of the [Workspace]() slides]
 
-* Activity 2: Create a draft of your research goals (starting on slide 20 of the [Workspace]() slides]
+* Activity 2: Install R/RStudio/MPlus/MplusAutomation
+*     (add resources for this)
+* If you need help, drop into office hours (link calenddar link to go to office hours)
 
-[Pre-Training Day 1 Video]()
+
 
 ------------------------------------------------------------------------
 
@@ -48,15 +50,7 @@ Preparation:
 
 - Make sure you have Mplus, R, and RStudio downloaded and ready to go!
 
-Learning Outcomes:
 
-1.  Using Mplus software, fellows will learn the basic skeleton of an Mplus input (*.inp*) syntax, run basic descriptive statistics, and evaluate output (*.out*)
-
-2.  Using the `MplusAutomation` package, fellows will will be able to run descriptive statistics in R.
-
-3.  This workshop will cover the creation of R-projects and R markdowns and discuss the benefits of organization of the R workflow.
-
-4.  Fellows will have the opportunity to learn how to enhance and customize their R markdowns by applying themes to their documents
 
 Synchronous Activity:
 

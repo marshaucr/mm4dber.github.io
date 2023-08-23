@@ -12,7 +12,7 @@
 
 <p align="center">
 
-Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF funded training grant to support STEM Education scholars in integrating mixture modeling into their research.
+Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-funded training grant to support STEM Education scholars in integrating mixture modeling into their research.
 
 </p>
 
@@ -53,7 +53,7 @@ Asynchronous Activity:
   
             - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio. 
 
-* If you need help, drop into office hours (link calenddar link to go to office hours)
+* If you need help, drop into office hours ( add calendar link to go to office hours)
 
 
 

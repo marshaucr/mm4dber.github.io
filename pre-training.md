@@ -20,23 +20,23 @@ Mixture Modeling for Discipline Based Education Researchers (MM4DBER) is an NSF-
 
 ### Day 1 (August 31, 2023): Introductions, training goals, introduction to mixture modeling
 
-Learning Outcomes:
+#### Learning Outcomes:
 
 1. Fellows will be able to create a first draft of their research goals that can be addressed with mixture modeling in the upcoming year.
 
 2. Fellows will be able to identify how the MM4DBER training goals and opportunities can help them to apply mixture modeling training to their research goals
 
 
-Synchronous Activity:
+#### Synchronous Activity:
 
 * Slide deck [here]()
 * [Workspace]()
 
-Asynchronous Activity:
+#### Asynchronous Activity:
 
-- Activity 1: Create a draft of your research goals (starting on slide 20 of the [Workspace]() slides]
+ #### Activity 1: Create a draft of your research goals (starting on slide 20 of the [Workspace]() slides]
 
-- Activity 2: Install R/RStudio/MPlus/MplusAutomation
+ #### Activity 2: Install R/RStudio/MPlus/MplusAutomation
 
  - Install R/Rstudio: [HERE](https://posit.co/download/rstudio-desktop/) you will find a guide to installing both R and R Studio.
 
@@ -51,8 +51,7 @@ Asynchronous Activity:
   
             - NOTE: It is highly recommended that you watch the full videos before day 5 of pre-training. Especially for those who are learning R/Rstudio. 
 
-* If you need help, drop into office hours ( add calendar link to go to office hours)
-
+##### If you need help, drop into office hours ( add calendar link to go to office hours)
 
 
 ------------------------------------------------------------------------

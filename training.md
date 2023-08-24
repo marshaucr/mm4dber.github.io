@@ -1,4 +1,4 @@
-## MM4DBER Training Materials
+# MM4DBER Training Materials
 
 ------------------------------------------------------------------------
 

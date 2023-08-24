@@ -20,3 +20,7 @@
 - - -
 
 ## Additional resources: ...
+
+- - -
+
+![](images/UCSB_Navy_mark.png)

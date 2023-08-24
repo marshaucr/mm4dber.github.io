@@ -155,7 +155,7 @@ Helpful Links:
 
 -   Follow us on [Twitter](https://twitter.com/mm4dbers)!
 
-How to reference this workshop: Institute of Mixture Modeling for Equity-Oriented Researchers, Scholars, and Educators (2023). IMMERSE Pre-Training Workshop (IES No. 305B220021). Institute of Education Sciences. <https://mm4dber.github.io/pre-training>
+How to reference this workshop: Institute on Equity-Oriented Mixture Modeling for Discipline-Based Education Researchers. (2023). MM4DBERs Pre-Training Workshop (NSF Award No. 2224786). National Science Foundation. <https://mm4dber.github.io/pre-training>
 
 ------------------------------------------------------------------------
 

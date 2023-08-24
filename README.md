@@ -1,6 +1,6 @@
-## MM4DEBER PROJECT LANDING PAGE
+# MM4DEBER PROJECT LANDING PAGE
 
-ADD DESCRIPTION
+Where materials can be found for workshop (i.e., slide-decks, videos, and other resources)
 
 - - -
 
@@ -8,7 +8,7 @@ ADD DESCRIPTION
 
 - - -
 
-##### Training materails page: ADD LINK HERE 
+##### Training materails page: https://mm4dber.github.io/training
 
 - - -
 
